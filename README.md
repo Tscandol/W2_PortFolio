@@ -7,5 +7,4 @@ If you want to see it live, check out my personal portflio at :
   
     
       
-        
-        ![PortfolioPic](https://user-images.githubusercontent.com/71343777/199234213-959f871d-1c0b-4556-8f19-64360237b918.png)
+![PortfolioPic](https://user-images.githubusercontent.com/71343777/199234213-959f871d-1c0b-4556-8f19-64360237b918.png)
